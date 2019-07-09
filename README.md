@@ -1,7 +1,7 @@
 # R Community Diversity and Inclusion Working Group
 
 ## Goal
-The goal of the R Community Diversity and Inclusion Working Group (RCDI-WG) is to broadly consider how the R Consortium can best encourage and support diverse and inclusion. The short-term priority is to define and publicise on best practices for R community events, and ensure that events funded by the R consortium adhere to those guidelines. In the long term, the RCDI-WG will think about how diversity and inclusion can we woven throughout all R consortium activities.
+The goal of the R Community Diversity and Inclusion Working Group (RCDI-WG) is to broadly consider how the R Consortium can best encourage and support diversity and inclusion. The short-term priority is to define and publicise on best practices for R community events, and ensure that events funded by the R Consortium adhere to those guidelines. In the long term, the RCDI-WG will think about how diversity and inclusion can we woven throughout all R Consortium activities.
 
 ## Membership
 
@@ -10,7 +10,7 @@ Chair (and ISC sponsor): Hadley Wickham
 The WG will be seeded with four members:
 - Jenny Bryan, representing FORWARDS
 - Gabriela de Queiroz representing R-Ladies
-- A representation from the R/finance program committee
+- A representation from the R/Finance program committee
 - Scott Chamberlain representing CascadiaRConf.
 
 Any interested R community member is also welcome to join (see below for details), and one of the initial missions of the WG will be to recruit a diverse membership.
